@@ -40,5 +40,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "We're creating a project for CodeRed.\r We're aiming to visualize oil and gas data for informational purposes.",
+  "main": "jquery.usmap.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saalihahlatiff/team-one.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saalihahlatiff/team-one/issues"
+  },
+  "homepage": "https://github.com/saalihahlatiff/team-one#readme"
 }
